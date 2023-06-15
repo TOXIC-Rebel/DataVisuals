@@ -1,0 +1,16 @@
+Playing dice:
+    dice.py
+    dice_visuals.py
+    2_dice_visuals.py
+
+Random Walk:
+    random_walk.py
+    rw_visual.py
+    dust_seed.py
+
+csv processing:
+    Temperature.py
+    NORMAL_DLY_sample_csv.csv
+
+json processing:
+    earth_quakes.py
